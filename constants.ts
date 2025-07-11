@@ -42,6 +42,7 @@ export const TYPED_STRINGS = [
 ];
 
 export const EMAIL = "Uzair.Iqbal.xda@gmail.com";
+export const PHONE = "https://wa.me/971565930813?text=Hi%20Uzair";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/alphaUzair/",
