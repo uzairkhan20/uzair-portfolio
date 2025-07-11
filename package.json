@@ -18,14 +18,14 @@
     "vanilla-tilt": "^1.7.0"
   },
   "devDependencies": {
-    "@types/node": "^17.0.21",
-    "@types/react": "^17.0.4",
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.44",
     "autoprefixer": "^10.4.7",
-    "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^15.3.5",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.4",
-    "typescript": "^4.2.4"
+    "typescript": "^5.4.5"
   },
   "license": "MIT",
   "copyright.owner": "Uzair Iqbal"
