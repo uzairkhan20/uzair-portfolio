@@ -65,7 +65,7 @@ export default function Home() {
   }, [timer]);
 
   const renderBackdrop = (): React.ReactNode => (
-    <div className="fixed top-0 left-0 h-screen w-screen bg-black -z-1"></div>
+    <div className="fixed top-0 left-0 h-screen w-screen bg-red -z-1"></div>
   );
 
   return (

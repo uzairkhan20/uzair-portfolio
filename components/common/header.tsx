@@ -15,12 +15,13 @@ const Header = () => {
     <header className="w-full fixed top-0 py-8 select-none z-50 bg-gradient-to-b from-gray-900 to-transparent">
       <div className="flex justify-between section-container">
         <a href="#home" className="link">
-          <Image
+          {/* <Image
             src="/logo.svg"
             alt="Logo - Uzair Iqbal"
             width={22}
             height={22}
-          />
+          /> */}
+          UZ
         </a>
         <nav className={`outer-menu ${menuVisible ? "menu-visible" : ""}`}>
           <button

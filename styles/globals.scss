@@ -29,8 +29,9 @@
 }
 
 body {
-  @apply bg-gray-900 text-white overflow-x-hidden;
+  @apply text-white overflow-x-hidden;
   cursor: none;
+  background-color: #101827;
 }
 
 html {
